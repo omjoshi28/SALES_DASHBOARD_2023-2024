@@ -294,7 +294,6 @@ sales-dashboard-2023-2024/
 Built by **Om Joshi**
 - 🔗 LinkedIn: [https://linkedin.com/in/om-joshi028/]
 - 💻 GitHub: [https://github.com/omjoshi28/SALES_DASHBOARD_2023-2024]
-- 💻 GitHub: [https://github.com/omjoshi28]
 - 📧 Email: omjoshi2807@gmail.com
 
 > ⭐ If this project helped you or you liked the approach, give it a star — it means a lot!
